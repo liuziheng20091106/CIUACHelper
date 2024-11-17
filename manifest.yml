@@ -1,0 +1,8 @@
+﻿id: tkstudio.uachelper.classisland  # 插件 id
+name: UAC自动提权  # 插件名称
+apiVersion: 1.4.2.0  # 插件面向的 ClassIsland 版本
+description: TKStudio开发的自动提权工具  # 插件描述
+entranceAssembly: "uachelper.dll"  # 插件入口程序集
+url: https://github.com/ClassIsland/ExamplePlugins  # 插件 Url
+author: TKStudio  # 插件作者
+version: 1.0.0.0  # 插件版本
